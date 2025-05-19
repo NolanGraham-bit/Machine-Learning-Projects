@@ -1,0 +1,29 @@
+
+Machine Learning Model Evaluation Report
+=======================================
+
+Model: Support Vector Machine (SVM)
+
+Training Accuracy: 1.0000
+Testing Accuracy: 1.0000
+
+Best Features Identified from PCA:
+1. PC1 (Explains 56.01% of variance)
+2. PC2 (Explains 19.84% of variance)
+
+
+Model: k-Nearest Neighbors
+Training Accuracy: 1.0000
+Testing Accuracy: 1.0000
+
+Model: k-Nearest Neighbors
+Training Accuracy: 1.0000
+Testing Accuracy: 1.0000
+
+Model: Random Forest
+Training Accuracy: 1.0000
+Testing Accuracy: 1.0000
+
+Model: Decision Tree
+Training Accuracy: 1.0000
+Testing Accuracy: 1.0000
