@@ -1,0 +1,2 @@
+Optimal k: 9
+Distortion Score: 19473.062837621565
